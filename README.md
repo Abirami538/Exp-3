@@ -6,8 +6,6 @@ To draw the UML diagram for Railway Management System.
 # SRS (Procedure):
 List of Programs:
 
-SRS (Procedure) – List of Diagrams
-
 1.Use Case Diagram:
 Shows how users (actors) interact with the system and represents main functions like Login, Register, and Apply for Job.
 
